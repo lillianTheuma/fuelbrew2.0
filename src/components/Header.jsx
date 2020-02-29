@@ -18,12 +18,12 @@ function Header(){
   const navLinkStyle = {
     fontSize: '15px',
     textAlign: 'center'
-  }
+  };
   const navBarStyle = {
     margin: "auto",
     marginTop: '20px',
     textAlign: "center"
-  }
+  };
 
   return (
     <div>

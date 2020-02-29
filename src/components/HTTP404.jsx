@@ -11,7 +11,7 @@ function HTTP404(props){
   );
 }
 
-Error404.propTypes = {
+HTTP404.propTypes = {
   location: PropTypes.object
 };
 
